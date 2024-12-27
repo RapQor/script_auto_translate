@@ -76,7 +76,7 @@ def detect_and_extract_text_bubbles(image_path):
                     def is_transparent_color(pixel):
                         r, g, b = pixel
                         # Warna putih hingga abu-abu berdasarkan perbedaan kecil antar channel RGB
-                        return r >= 200 and g >= 200 and b >= 200
+                        return r >= 150 and g >= 150 and b >= 150
 
                     def is_black_color(pixel):
                         r, g, b = pixel
