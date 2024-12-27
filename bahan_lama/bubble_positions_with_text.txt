@@ -1,0 +1,39 @@
+Bubble 36: Position(x=905, y=3687, width=277, height=102), File: extracted_bubbles\bubble_36.png, Text: Ss
+Bubble 194: Position(x=148, y=2743, width=594, height=830), File: extracted_bubbles\bubble_194.png, Text: ASALKAN AKU
+GOETHE MOONO
+SUDAH BERTINDAK,
+MAKA MASALAH
+SEMACAM INI
+HANYA SEPELE....
+Bubble 203: Position(x=1328, y=2661, width=995, height=1001), File: extracted_bubbles\bubble_203.png, Text: PIHAK ELIZA
+
+DAKUAIKAN INGIN
+MENUTUP
+
+KASUSNYA,
+
+PERLU BANYAK
+USAHA BUAT
+MENYEMBUNYI-
+KAN BEGITU
+BANYAKNYA
+SAKSI MATA.
+Bubble 347: Position(x=281, y=1162, width=475, height=700), File: extracted_bubbles\bubble_347.png, Text: MINUMAN
+
+- YANG SANGAT
+
+OCOK BAGI
+ORANG SIBLIK
+SEPERTIKU.
+Bubble 349: Position(x=1464, y=1145, width=753, height=961), File: extracted_bubbles\bubble_349.png, Text: HMM, BIJ! KOPI
+MITSUGOSHI ©
+MEMANG |
+BERKUALITAS
+TINGGI,
+
+BAHKAN
+AROMANYA
+“TETAP NIKMAT
+MESKIPLIN
+SUDAH
+DINGIN....
